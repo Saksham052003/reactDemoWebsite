@@ -22,3 +22,7 @@ This is a simple demo website built using React.
 3. App.js: Main component rendering other components.
 4. index.js: Entry point of the application.
 5. public: Contains public assets such as images.
+
+## Screnshorts
+![image](https://github.com/Saksham052003/reactDemoWebsite/assets/85613747/fa782e64-43a9-4fe9-a060-773bf4e09d0c)
+
